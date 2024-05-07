@@ -1,0 +1,1286 @@
+[
+  {
+    "ref": "071e3761-e5a7-49fe-b59e-d1e2146456dd",
+    "keyword": "16848404811e96efd4fef291e4e125aa",
+    "answer": "hola",
+    "options": {},
+    "from": "573227764976",
+    "refSerialize": "79e7fc16f7fb85373fd25a99390f44c0"
+  },
+  {
+    "ref": "ans_0b9ab0dc-dbde-4f8f-974b-dbc09f99dc19",
+    "keyword": "key_04efbe00-3b9f-43c5-ac01-179d1b231cb8",
+    "answer": "🙌 Hola bienvenido al chatbot de \"La Calle del Sabor\"",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "e3d9bea9ac03728e261e8429f6d01ebb",
+    "from": "573227764976"
+  },
+  {
+    "ref": "ans_599778d5-bf8e-484d-8c32-b9dfae734024",
+    "keyword": "ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb",
+    "answer": "Escribe una *Categoría* para ver su detalle",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9fa6ccfba72231d33a186173976c10c2",
+    "from": "573227764976"
+  },
+  {
+    "ref": "ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb",
+    "keyword": "ans_0b9ab0dc-dbde-4f8f-974b-dbc09f99dc19",
+    "answer": "Tenemos las siguientes *Categorías* de Menús:",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "c687bc3833fa4ddeaf7fe15db616ddf4",
+    "from": "573227764976"
+  },
+  {
+    "ref": "1ffa7111-780b-44a2-bb92-f18b6bbbba61",
+    "keyword": null,
+    "answer": "*Hamburguesa*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573227764976",
+    "refSerialize": "400546e1ab48ea5ac825f842ae9b65c9"
+  },
+  {
+    "ref": "5bdcb1ca-8ae8-4c17-b7ae-2847f6e9ff01",
+    "keyword": null,
+    "answer": "*Desayunos*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573227764976",
+    "refSerialize": "f9aeef80ddec08b930d351c5932ede81"
+  },
+  {
+    "ref": "ca816fff-6af3-4eac-8c3b-46a992bf571c",
+    "keyword": null,
+    "answer": "*Almuerzos*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573227764976",
+    "refSerialize": "bda1e6b3ff5960bcb73ba226c93710a1"
+  },
+  {
+    "ref": "dd2a4e3b-5d82-4ea8-bfc8-ae15be14b2fd",
+    "keyword": null,
+    "answer": "*Sopas/Caldos*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573227764976",
+    "refSerialize": "834293b5bcb9fe1990229b70a6a4e8b1"
+  },
+  {
+    "ref": "2fc00c2e-e911-46c5-813d-19a8c86e8834",
+    "keyword": null,
+    "answer": "*Picadas/Parrilladas*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573227764976",
+    "refSerialize": "9a98af6a1b6673e5fc160cd9e9c47946"
+  },
+  {
+    "ref": "b4409201-ddc5-444e-89a5-e32a76b6e191",
+    "keyword": null,
+    "answer": "*Arroz Chino*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573227764976",
+    "refSerialize": "8c883db922c8f56f1b0efc52b11d8844"
+  },
+  {
+    "ref": "07c5fb61-36df-4e5d-813d-ad5ce7fb5343",
+    "keyword": null,
+    "answer": "*Alitas BBQ/Fritas*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573227764976",
+    "refSerialize": "4e90f9293be694f759978b4e4720a699"
+  },
+  {
+    "ref": "195bbdf0-0a81-4810-bd6b-4049199eebf8",
+    "keyword": null,
+    "answer": "*Pepito*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573227764976",
+    "refSerialize": "41d53a0bc9ee2e58c73f272bfd7434f1"
+  },
+  {
+    "ref": "8531a182-b803-4254-a195-ad7f462f31d5",
+    "keyword": null,
+    "answer": "*Salchipapa*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573227764976",
+    "refSerialize": "8aa26bc873cdc347b46d1252e8d3acfc"
+  },
+  {
+    "ref": "00d3e09e-187b-4d4c-a32f-dfdccfb57dfe",
+    "keyword": null,
+    "answer": "*Perros Calientes*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573227764976",
+    "refSerialize": "7f37bfa17d9bdb0e425ea14ef6900db6"
+  },
+  {
+    "ref": "9daea06f-7957-477d-badc-707f90403022",
+    "keyword": null,
+    "answer": "*Empanadas*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573227764976",
+    "refSerialize": "947f7f674f8b0633b44b0dbd5d694993"
+  },
+  {
+    "ref": "ans_599778d5-bf8e-484d-8c32-b9dfae734024",
+    "keyword": "ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb",
+    "answer": "Escribe una *Categoría* para ver su detalle",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9fa6ccfba72231d33a186173976c10c2",
+    "from": "573227764976"
+  },
+  {
+    "ref": "ans_599778d5-bf8e-484d-8c32-b9dfae734024",
+    "keyword": "ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb",
+    "answer": "Escribe una *Categoría* para ver su detalle",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9fa6ccfba72231d33a186173976c10c2",
+    "from": "573227764976"
+  },
+  {
+    "ref": "9dbb2908-6a02-474b-8b5e-38b95a37633d",
+    "keyword": "9fa6ccfba72231d33a186173976c10c2",
+    "answer": "Perros Calientes",
+    "options": {},
+    "from": "573227764976",
+    "refSerialize": "6ea1c325cf7f0301541d9e1ffa7a2ae1"
+  },
+  {
+    "ref": "ans_aa5a4eab-3f06-4a59-8a2c-7ceb7dd60788",
+    "keyword": "key_94edb931-8599-424d-86b4-4c1be8648808",
+    "answer": {
+      "capture": true
+    },
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f607bc09f561152fbf86d0340d4b300f",
+    "from": "573227764976"
+  },
+  {
+    "ref": "1d585f3f-731f-4f49-ac0d-5232d1f045f7",
+    "keyword": null,
+    "answer": "Nombre: Normal\nDescripción: salchicha, papa ripio, ensalada, salsas\nPrecio: 10000",
+    "options": {
+      "media": "https://i.ibb.co/0c1FTrb/perro-caliente.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573227764976",
+    "refSerialize": "8b7d894ba5af6748685e29e825155db9"
+  },
+  {
+    "ref": "5e14b797-8dbc-4b06-bf21-539700a46778",
+    "keyword": null,
+    "answer": "Nombre: Especial\nDescripción: salchicha, jamón, queso, papa ripio, ensalada, salsas\nPrecio: 12000",
+    "options": {
+      "media": "https://i.ibb.co/0c1FTrb/perro-caliente.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573227764976",
+    "refSerialize": "2b92329b53aa4a81e7c093599354d1ff"
+  },
+  {
+    "ref": "26c52a12-c3fa-47b7-bf89-943bb820f218",
+    "keyword": null,
+    "answer": "Nombre: Con Res\nDescripción: salchichas, res picada, queso, tocineta, papas francesas, salsas\nPrecio: 18000",
+    "options": {
+      "media": "https://i.ibb.co/0c1FTrb/perro-caliente.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573227764976",
+    "refSerialize": "5212fd44bfadee73bb4c26469fe3c107"
+  },
+  {
+    "ref": "77753547-4958-4640-8ab1-bc4e05ef9fed",
+    "keyword": null,
+    "answer": "Nombre: Con Cerdo\nDescripción: salchichas, cerdo picado, queso, tocineta, papas francesas, salsas\nPrecio: 18000",
+    "options": {
+      "media": "https://i.ibb.co/0c1FTrb/perro-caliente.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573227764976",
+    "refSerialize": "3474e74f6ac6a7b2fa0a724268c79b0b"
+  },
+  {
+    "ref": "0304c136-c4f8-41ac-a8c7-e5cdc9962423",
+    "keyword": null,
+    "answer": "Nombre: Con Pollo\nDescripción: salchichas, pollo picado, queso, tocineta, papas francesas, salsas\nPrecio: 18000",
+    "options": {
+      "media": "https://i.ibb.co/0c1FTrb/perro-caliente.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573227764976",
+    "refSerialize": "dcfa42b1f9c66bd761eb4e37d9cb008b"
+  },
+  {
+    "ref": "ans_0b9ab0dc-dbde-4f8f-974b-dbc09f99dc19",
+    "keyword": "key_04efbe00-3b9f-43c5-ac01-179d1b231cb8",
+    "answer": "🙌 Hola bienvenido al chatbot de \"La Calle del Sabor\"",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "e3d9bea9ac03728e261e8429f6d01ebb",
+    "from": "573134244084"
+  },
+  {
+    "ref": "ans_599778d5-bf8e-484d-8c32-b9dfae734024",
+    "keyword": "ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb",
+    "answer": "Escribe una *Categoría* para ver su detalle",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9fa6ccfba72231d33a186173976c10c2",
+    "from": "573134244084"
+  },
+  {
+    "ref": "ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb",
+    "keyword": "ans_0b9ab0dc-dbde-4f8f-974b-dbc09f99dc19",
+    "answer": "Tenemos las siguientes *Categorías* de Menús:",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "c687bc3833fa4ddeaf7fe15db616ddf4",
+    "from": "573134244084"
+  },
+  {
+    "ref": "8dcd4857-362b-44aa-8415-f55a43fc0f94",
+    "keyword": null,
+    "answer": "*Hamburguesa*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "400546e1ab48ea5ac825f842ae9b65c9"
+  },
+  {
+    "ref": "7a067d9c-c62e-4491-bd81-835855c34f13",
+    "keyword": null,
+    "answer": "*Desayunos*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "f9aeef80ddec08b930d351c5932ede81"
+  },
+  {
+    "ref": "4a2d5114-1676-4b79-a299-0197e4ee55bc",
+    "keyword": null,
+    "answer": "*Almuerzos*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "bda1e6b3ff5960bcb73ba226c93710a1"
+  },
+  {
+    "ref": "4ebc269d-59e4-48ba-b0f8-be639af5a15c",
+    "keyword": null,
+    "answer": "*Sopas/Caldos*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "834293b5bcb9fe1990229b70a6a4e8b1"
+  },
+  {
+    "ref": "0c54a3d2-209d-41bd-8c12-190f7b497bf7",
+    "keyword": null,
+    "answer": "*Picadas/Parrilladas*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "9a98af6a1b6673e5fc160cd9e9c47946"
+  },
+  {
+    "ref": "1368d6bd-b901-4467-9287-a266fa0a3c44",
+    "keyword": null,
+    "answer": "*Arroz Chino*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "8c883db922c8f56f1b0efc52b11d8844"
+  },
+  {
+    "ref": "f0f25aab-595e-4eb3-8828-9a79a9cafd09",
+    "keyword": null,
+    "answer": "*Alitas BBQ/Fritas*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "4e90f9293be694f759978b4e4720a699"
+  },
+  {
+    "ref": "2b1640fa-59fd-42b1-9eed-f523297ed8b3",
+    "keyword": null,
+    "answer": "*Pepito*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "41d53a0bc9ee2e58c73f272bfd7434f1"
+  },
+  {
+    "ref": "6e670856-0533-4ad9-95af-5ff0a973e7fe",
+    "keyword": null,
+    "answer": "*Salchipapa*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "8aa26bc873cdc347b46d1252e8d3acfc"
+  },
+  {
+    "ref": "e6ac3a2a-3fde-4268-b65a-f45164e92cbd",
+    "keyword": null,
+    "answer": "*Perros Calientes*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "7f37bfa17d9bdb0e425ea14ef6900db6"
+  },
+  {
+    "ref": "0ea80cca-4a89-484a-b523-1f2ae05be92a",
+    "keyword": null,
+    "answer": "*Empanadas*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "947f7f674f8b0633b44b0dbd5d694993"
+  },
+  {
+    "ref": "ans_599778d5-bf8e-484d-8c32-b9dfae734024",
+    "keyword": "ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb",
+    "answer": "Escribe una *Categoría* para ver su detalle",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9fa6ccfba72231d33a186173976c10c2",
+    "from": "573134244084"
+  },
+  {
+    "ref": "ans_599778d5-bf8e-484d-8c32-b9dfae734024",
+    "keyword": "ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb",
+    "answer": "Escribe una *Categoría* para ver su detalle",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9fa6ccfba72231d33a186173976c10c2",
+    "from": "573134244084"
+  },
+  {
+    "ref": "de8ba3c2-2e7c-4e2c-a70a-ae1e9b42a99f",
+    "keyword": "9fa6ccfba72231d33a186173976c10c2",
+    "answer": "Empanadas",
+    "options": {},
+    "from": "573134244084",
+    "refSerialize": "72d4c160b00ef4bdb1e722804a5dd77d"
+  },
+  {
+    "ref": "ans_aa5a4eab-3f06-4a59-8a2c-7ceb7dd60788",
+    "keyword": "key_94edb931-8599-424d-86b4-4c1be8648808",
+    "answer": {
+      "capture": true
+    },
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f607bc09f561152fbf86d0340d4b300f",
+    "from": "573134244084"
+  },
+  {
+    "ref": "86e30fef-f9d8-4395-bdca-351294bb3317",
+    "keyword": null,
+    "answer": "Nombre: Carne Desmechada\nDescripción: masa de maíz, carne desmechada\nPrecio: 3500",
+    "options": {
+      "media": "https://i.ibb.co/TLSCkM9/empanada.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "331088f506e4cba33c2683b9cfa2daf2"
+  },
+  {
+    "ref": "e8506a74-a5dc-4f18-a3d2-3bb63a29d759",
+    "keyword": null,
+    "answer": "Nombre: Pollo Desmechado\nDescripción: masa de maíz, pollo desmechada\nPrecio: 3500",
+    "options": {
+      "media": "https://i.ibb.co/TLSCkM9/empanada.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "b1a8533f459d5b99586ccf4867f91cb7"
+  },
+  {
+    "ref": "0671ede1-f592-44c4-830d-1a3b6ffdd7a5",
+    "keyword": null,
+    "answer": "Nombre: Queso\nDescripción: masa de maíz, queso de la casa\nPrecio: 3000",
+    "options": {
+      "media": "https://i.ibb.co/TLSCkM9/empanada.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "7bf384b0f18262407babe3add3c0f16c"
+  },
+  {
+    "ref": "e847faf6-ae30-4d27-9446-22194debebd7",
+    "keyword": null,
+    "answer": "Nombre: Jamón y Queso\nDescripción: masa de maíz, jamón y queso de la casa\nPrecio: 3000",
+    "options": {
+      "media": "https://i.ibb.co/TLSCkM9/empanada.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "59cced848004b140a3db4fec8b97d825"
+  },
+  {
+    "ref": "6055b955-21dd-400c-9df7-297f3fa97178",
+    "keyword": null,
+    "answer": "Nombre: Caraota con Queso\nDescripción: masa de maíz, caraota y queso de la casa\nPrecio: 3000",
+    "options": {
+      "media": "https://i.ibb.co/TLSCkM9/empanada.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "3a1109c27dd8f467bf31b8f488a0d11c"
+  },
+  {
+    "ref": "b866e21f-de7c-4892-bed2-dbc4e9e14f50",
+    "keyword": null,
+    "answer": "Nombre: Pabellón\nDescripción: masa de maíz, caraota, carne desmechada, tajadas, queso de la casa\nPrecio: 5000",
+    "options": {
+      "media": "https://i.ibb.co/TLSCkM9/empanada.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "3c0421a01a9e901f2ddf765b03d06677"
+  },
+  {
+    "ref": "1a16fc8b-3052-4b7f-8013-5400874ea126",
+    "keyword": null,
+    "answer": "Nombre: Mixta\nDescripción: masa de maíz, combinación de dos sabores y queso de la casa\nPrecio: 5000",
+    "options": {
+      "media": "https://i.ibb.co/TLSCkM9/empanada.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "57d43331ce7d966c53e760d3c71ea932"
+  },
+  {
+    "ref": "0381609c-cc8f-4dfa-b640-723709b831f1",
+    "keyword": "f607bc09f561152fbf86d0340d4b300f",
+    "answer": "Perros Calientes",
+    "options": {},
+    "from": "573134244084",
+    "refSerialize": "6ea1c325cf7f0301541d9e1ffa7a2ae1"
+  },
+  {
+    "ref": "ans_aa5a4eab-3f06-4a59-8a2c-7ceb7dd60788",
+    "keyword": "key_94edb931-8599-424d-86b4-4c1be8648808",
+    "answer": {
+      "capture": true
+    },
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f607bc09f561152fbf86d0340d4b300f",
+    "from": "573134244084"
+  },
+  {
+    "ref": "3ba4b2a2-7bb6-4b0d-ba64-c65f953110b2",
+    "keyword": null,
+    "answer": "Nombre: Normal\nDescripción: salchicha, papa ripio, ensalada, salsas\nPrecio: 10000",
+    "options": {
+      "media": "https://i.ibb.co/0c1FTrb/perro-caliente.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "8b7d894ba5af6748685e29e825155db9"
+  },
+  {
+    "ref": "0c86ee9c-d633-4fdb-99cb-e5a3ec09c553",
+    "keyword": null,
+    "answer": "Nombre: Especial\nDescripción: salchicha, jamón, queso, papa ripio, ensalada, salsas\nPrecio: 12000",
+    "options": {
+      "media": "https://i.ibb.co/0c1FTrb/perro-caliente.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "2b92329b53aa4a81e7c093599354d1ff"
+  },
+  {
+    "ref": "42b8f798-570e-4484-90bc-a02521a90034",
+    "keyword": null,
+    "answer": "Nombre: Con Res\nDescripción: salchichas, res picada, queso, tocineta, papas francesas, salsas\nPrecio: 18000",
+    "options": {
+      "media": "https://i.ibb.co/0c1FTrb/perro-caliente.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "5212fd44bfadee73bb4c26469fe3c107"
+  },
+  {
+    "ref": "32e4f758-6327-4639-b782-60c1dd6c2f94",
+    "keyword": null,
+    "answer": "Nombre: Con Cerdo\nDescripción: salchichas, cerdo picado, queso, tocineta, papas francesas, salsas\nPrecio: 18000",
+    "options": {
+      "media": "https://i.ibb.co/0c1FTrb/perro-caliente.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "3474e74f6ac6a7b2fa0a724268c79b0b"
+  },
+  {
+    "ref": "a8488a44-c3a8-4abc-af21-c9cb99b9222a",
+    "keyword": null,
+    "answer": "Nombre: Con Pollo\nDescripción: salchichas, pollo picado, queso, tocineta, papas francesas, salsas\nPrecio: 18000",
+    "options": {
+      "media": "https://i.ibb.co/0c1FTrb/perro-caliente.jpg",
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "dcfa42b1f9c66bd761eb4e37d9cb008b"
+  },
+  {
+    "ref": "3dfd235a-a872-4fb3-a80a-fdf257e71214",
+    "keyword": "f607bc09f561152fbf86d0340d4b300f",
+    "answer": "Con pollo",
+    "options": {},
+    "from": "573134244084",
+    "refSerialize": "aceba3860cfbafcbaf9e1f3253695330"
+  },
+  {
+    "ref": "ans_0b9ab0dc-dbde-4f8f-974b-dbc09f99dc19",
+    "keyword": "key_04efbe00-3b9f-43c5-ac01-179d1b231cb8",
+    "answer": "🙌 Hola bienvenido al chatbot de \"La Calle del Sabor\"",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "e3d9bea9ac03728e261e8429f6d01ebb",
+    "from": "573134244084"
+  },
+  {
+    "ref": "ans_599778d5-bf8e-484d-8c32-b9dfae734024",
+    "keyword": "ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb",
+    "answer": "Escribe una *Categoría* para ver su detalle",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9fa6ccfba72231d33a186173976c10c2",
+    "from": "573134244084"
+  },
+  {
+    "ref": "ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb",
+    "keyword": "ans_0b9ab0dc-dbde-4f8f-974b-dbc09f99dc19",
+    "answer": "Tenemos las siguientes *Categorías* de Menús:",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "c687bc3833fa4ddeaf7fe15db616ddf4",
+    "from": "573134244084"
+  },
+  {
+    "ref": "ebff59be-86ab-48a8-ae34-d0b6c74d8f58",
+    "keyword": null,
+    "answer": "*Hamburguesa*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "400546e1ab48ea5ac825f842ae9b65c9"
+  },
+  {
+    "ref": "d8481fc2-952f-4f77-ab66-2c0fda092aa6",
+    "keyword": null,
+    "answer": "*Desayunos*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "f9aeef80ddec08b930d351c5932ede81"
+  },
+  {
+    "ref": "12ca2a2a-fe0c-4551-b977-427a86b8f3e5",
+    "keyword": null,
+    "answer": "*Almuerzos*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "bda1e6b3ff5960bcb73ba226c93710a1"
+  },
+  {
+    "ref": "930addba-b7a0-4975-9df7-fd9283969230",
+    "keyword": null,
+    "answer": "*Sopas/Caldos*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "834293b5bcb9fe1990229b70a6a4e8b1"
+  },
+  {
+    "ref": "ab13fc9c-3183-441e-91b1-73556938b0e3",
+    "keyword": null,
+    "answer": "*Picadas/Parrilladas*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "9a98af6a1b6673e5fc160cd9e9c47946"
+  },
+  {
+    "ref": "85936cd6-c420-41d1-a34d-4b98716d605b",
+    "keyword": null,
+    "answer": "*Arroz Chino*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "8c883db922c8f56f1b0efc52b11d8844"
+  },
+  {
+    "ref": "5247df9d-c294-4b8b-a532-88ca92728122",
+    "keyword": null,
+    "answer": "*Alitas BBQ/Fritas*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "4e90f9293be694f759978b4e4720a699"
+  },
+  {
+    "ref": "71a3af35-4e25-4210-ba11-cd48119c9b4d",
+    "keyword": null,
+    "answer": "*Pepito*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "41d53a0bc9ee2e58c73f272bfd7434f1"
+  },
+  {
+    "ref": "91b8fb86-5627-436c-874e-4088543f2f3c",
+    "keyword": null,
+    "answer": "*Salchipapa*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "8aa26bc873cdc347b46d1252e8d3acfc"
+  },
+  {
+    "ref": "3632de21-dbad-4a4a-9d4e-2c1cafbc466e",
+    "keyword": null,
+    "answer": "*Perros Calientes*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "7f37bfa17d9bdb0e425ea14ef6900db6"
+  },
+  {
+    "ref": "286ce53b-7261-4a3a-b44b-97b8f4c1bed8",
+    "keyword": null,
+    "answer": "*Empanadas*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "947f7f674f8b0633b44b0dbd5d694993"
+  },
+  {
+    "ref": "ans_599778d5-bf8e-484d-8c32-b9dfae734024",
+    "keyword": "ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb",
+    "answer": "Escribe una *Categoría* para ver su detalle",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9fa6ccfba72231d33a186173976c10c2",
+    "from": "573134244084"
+  },
+  {
+    "ref": "ans_599778d5-bf8e-484d-8c32-b9dfae734024",
+    "keyword": "ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb",
+    "answer": "Escribe una *Categoría* para ver su detalle",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9fa6ccfba72231d33a186173976c10c2",
+    "from": "573134244084"
+  },
+  {
+    "ref": "9d09f3b2-e7e7-4564-83f7-69cb4e7d2b56",
+    "keyword": "9fa6ccfba72231d33a186173976c10c2",
+    "answer": "Bien todo específico",
+    "options": {},
+    "from": "573134244084",
+    "refSerialize": "b87b531792746929db89f57e0a25367c"
+  },
+  {
+    "ref": "ans_0b9ab0dc-dbde-4f8f-974b-dbc09f99dc19",
+    "keyword": "key_04efbe00-3b9f-43c5-ac01-179d1b231cb8",
+    "answer": "🙌 Hola bienvenido al chatbot de \"La Calle del Sabor\"",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "e3d9bea9ac03728e261e8429f6d01ebb",
+    "from": "573134244084"
+  },
+  {
+    "ref": "ans_599778d5-bf8e-484d-8c32-b9dfae734024",
+    "keyword": "ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb",
+    "answer": "Escribe una *Categoría* para ver su detalle",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9fa6ccfba72231d33a186173976c10c2",
+    "from": "573134244084"
+  },
+  {
+    "ref": "ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb",
+    "keyword": "ans_0b9ab0dc-dbde-4f8f-974b-dbc09f99dc19",
+    "answer": "Tenemos las siguientes *Categorías* de Menús:",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "c687bc3833fa4ddeaf7fe15db616ddf4",
+    "from": "573134244084"
+  },
+  {
+    "ref": "18d5824d-7d09-403b-a0a3-db08cc8eabeb",
+    "keyword": null,
+    "answer": "*Hamburguesa*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "400546e1ab48ea5ac825f842ae9b65c9"
+  },
+  {
+    "ref": "c7df7248-3e7b-4046-9534-87cb2f34d695",
+    "keyword": null,
+    "answer": "*Desayunos*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "f9aeef80ddec08b930d351c5932ede81"
+  },
+  {
+    "ref": "5376dad1-668c-4938-8cad-f11825dfb2ff",
+    "keyword": null,
+    "answer": "*Almuerzos*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "bda1e6b3ff5960bcb73ba226c93710a1"
+  },
+  {
+    "ref": "6dd27d82-07f6-498c-a77f-b5a6bc0f9d45",
+    "keyword": null,
+    "answer": "*Sopas/Caldos*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "834293b5bcb9fe1990229b70a6a4e8b1"
+  },
+  {
+    "ref": "fd213cb0-adea-4466-986d-6060846a2c60",
+    "keyword": null,
+    "answer": "*Picadas/Parrilladas*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "9a98af6a1b6673e5fc160cd9e9c47946"
+  },
+  {
+    "ref": "ca6726a0-75d9-48af-9882-577e9ff9d553",
+    "keyword": null,
+    "answer": "*Arroz Chino*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "8c883db922c8f56f1b0efc52b11d8844"
+  },
+  {
+    "ref": "b9d22e7e-557f-4bda-9c53-6c7e776d9620",
+    "keyword": null,
+    "answer": "*Alitas BBQ/Fritas*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "4e90f9293be694f759978b4e4720a699"
+  },
+  {
+    "ref": "a8015410-676d-410e-8744-5ec7ee1275aa",
+    "keyword": null,
+    "answer": "*Pepito*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "41d53a0bc9ee2e58c73f272bfd7434f1"
+  },
+  {
+    "ref": "455475ba-fbba-43de-b8aa-6acc343a2b13",
+    "keyword": null,
+    "answer": "*Salchipapa*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "8aa26bc873cdc347b46d1252e8d3acfc"
+  },
+  {
+    "ref": "df413ce3-f361-4405-bec5-509e49111665",
+    "keyword": null,
+    "answer": "*Perros Calientes*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "7f37bfa17d9bdb0e425ea14ef6900db6"
+  },
+  {
+    "ref": "2d00e2f3-8cec-46a8-bcce-9f55dcfb4008",
+    "keyword": null,
+    "answer": "*Empanadas*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573134244084",
+    "refSerialize": "947f7f674f8b0633b44b0dbd5d694993"
+  },
+  {
+    "ref": "ans_599778d5-bf8e-484d-8c32-b9dfae734024",
+    "keyword": "ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb",
+    "answer": "Escribe una *Categoría* para ver su detalle",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9fa6ccfba72231d33a186173976c10c2",
+    "from": "573134244084"
+  },
+  {
+    "ref": "ans_599778d5-bf8e-484d-8c32-b9dfae734024",
+    "keyword": "ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb",
+    "answer": "Escribe una *Categoría* para ver su detalle",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9fa6ccfba72231d33a186173976c10c2",
+    "from": "573134244084"
+  }
+]

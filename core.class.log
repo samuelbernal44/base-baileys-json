@@ -1,0 +1,423 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573227764976@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F1118E3B88D5030AB7',
+    participant: undefined
+  },
+  messageTimestamp: 1715042865,
+  pushName: 'Dayibi',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '573227764976'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0b9ab0dc-dbde-4f8f-974b-dbc09f99dc19',
+  keyword: 'key_04efbe00-3b9f-43c5-ac01-179d1b231cb8',
+  answer: '🙌 Hola bienvenido al chatbot de "La Calle del Sabor"',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e3d9bea9ac03728e261e8429f6d01ebb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb',
+  keyword: 'ans_0b9ab0dc-dbde-4f8f-974b-dbc09f99dc19',
+  answer: 'Tenemos las siguientes *Categorías* de Menús:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c687bc3833fa4ddeaf7fe15db616ddf4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_599778d5-bf8e-484d-8c32-b9dfae734024',
+  keyword: 'ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb',
+  answer: 'Escribe una *Categoría* para ver su detalle',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9fa6ccfba72231d33a186173976c10c2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573227764976@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB07A37B1A864F333E1E2',
+    participant: undefined
+  },
+  messageTimestamp: 1715042877,
+  pushName: 'Dayibi',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Perros Calientes',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Perros Calientes',
+  from: '573227764976'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_aa5a4eab-3f06-4a59-8a2c-7ceb7dd60788',
+  keyword: 'key_94edb931-8599-424d-86b4-4c1be8648808',
+  answer: { capture: true },
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f607bc09f561152fbf86d0340d4b300f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134244084@s.whatsapp.net',
+    fromMe: false,
+    id: '23F27101D24DB639FB546F0F6FF213A7',
+    participant: undefined
+  },
+  messageTimestamp: 1715043450,
+  pushName: 'evelinbernalnava',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'evelinbernalnava',
+  body: 'Hola',
+  from: '573134244084'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0b9ab0dc-dbde-4f8f-974b-dbc09f99dc19',
+  keyword: 'key_04efbe00-3b9f-43c5-ac01-179d1b231cb8',
+  answer: '🙌 Hola bienvenido al chatbot de "La Calle del Sabor"',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e3d9bea9ac03728e261e8429f6d01ebb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb',
+  keyword: 'ans_0b9ab0dc-dbde-4f8f-974b-dbc09f99dc19',
+  answer: 'Tenemos las siguientes *Categorías* de Menús:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c687bc3833fa4ddeaf7fe15db616ddf4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_599778d5-bf8e-484d-8c32-b9dfae734024',
+  keyword: 'ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb',
+  answer: 'Escribe una *Categoría* para ver su detalle',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9fa6ccfba72231d33a186173976c10c2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134244084@s.whatsapp.net',
+    fromMe: false,
+    id: '9821E60BE5E2E6475E88A6CFE1F98B9F',
+    participant: undefined
+  },
+  messageTimestamp: 1715043465,
+  pushName: 'evelinbernalnava',
+  broadcast: false,
+  message: Message {
+    conversation: 'Empanadas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'evelinbernalnava',
+  body: 'Empanadas',
+  from: '573134244084'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_aa5a4eab-3f06-4a59-8a2c-7ceb7dd60788',
+  keyword: 'key_94edb931-8599-424d-86b4-4c1be8648808',
+  answer: { capture: true },
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f607bc09f561152fbf86d0340d4b300f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134244084@s.whatsapp.net',
+    fromMe: false,
+    id: '8A2F6DDB2C2AB2E26FF11A62D40FBB7D',
+    participant: undefined
+  },
+  messageTimestamp: 1715043503,
+  pushName: 'evelinbernalnava',
+  broadcast: false,
+  message: Message {
+    conversation: 'Perros Calientes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'evelinbernalnava',
+  body: 'Perros Calientes',
+  from: '573134244084'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_aa5a4eab-3f06-4a59-8a2c-7ceb7dd60788',
+  keyword: 'key_94edb931-8599-424d-86b4-4c1be8648808',
+  answer: { capture: true },
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f607bc09f561152fbf86d0340d4b300f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134244084@s.whatsapp.net',
+    fromMe: false,
+    id: '332F9D662EF18392E085FB86DE7CAE71',
+    participant: undefined
+  },
+  messageTimestamp: 1715043519,
+  pushName: 'evelinbernalnava',
+  broadcast: false,
+  message: Message {
+    conversation: 'Con pollo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'evelinbernalnava',
+  body: 'Con pollo',
+  from: '573134244084'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0b9ab0dc-dbde-4f8f-974b-dbc09f99dc19',
+  keyword: 'key_04efbe00-3b9f-43c5-ac01-179d1b231cb8',
+  answer: '🙌 Hola bienvenido al chatbot de "La Calle del Sabor"',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e3d9bea9ac03728e261e8429f6d01ebb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb',
+  keyword: 'ans_0b9ab0dc-dbde-4f8f-974b-dbc09f99dc19',
+  answer: 'Tenemos las siguientes *Categorías* de Menús:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c687bc3833fa4ddeaf7fe15db616ddf4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_599778d5-bf8e-484d-8c32-b9dfae734024',
+  keyword: 'ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb',
+  answer: 'Escribe una *Categoría* para ver su detalle',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9fa6ccfba72231d33a186173976c10c2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134244084@s.whatsapp.net',
+    fromMe: false,
+    id: '49D79923A0CC0CE95A1E149664334DA9',
+    participant: undefined
+  },
+  messageTimestamp: 1715043942,
+  pushName: 'evelinbernalnava',
+  broadcast: false,
+  message: Message {
+    conversation: 'Bien todo específico',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'evelinbernalnava',
+  body: 'Bien todo específico',
+  from: '573134244084'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0b9ab0dc-dbde-4f8f-974b-dbc09f99dc19',
+  keyword: 'key_04efbe00-3b9f-43c5-ac01-179d1b231cb8',
+  answer: '🙌 Hola bienvenido al chatbot de "La Calle del Sabor"',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e3d9bea9ac03728e261e8429f6d01ebb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb',
+  keyword: 'ans_0b9ab0dc-dbde-4f8f-974b-dbc09f99dc19',
+  answer: 'Tenemos las siguientes *Categorías* de Menús:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c687bc3833fa4ddeaf7fe15db616ddf4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_599778d5-bf8e-484d-8c32-b9dfae734024',
+  keyword: 'ans_5d89699e-ca16-48e8-b5a6-41dfa5914deb',
+  answer: 'Escribe una *Categoría* para ver su detalle',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9fa6ccfba72231d33a186173976c10c2'
+}
